@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Reopen httpsnytimes.com if not open",
+  "Type": "App",
+  "Id": "NuHiPvFPiE-0vXF9xc21eQ",
+  "Reference": "U2NxoK5I5kmXFfU-oLqU6A/NuHiPvFPiE-0vXF9xc21eQ",
+  "Created": "2024-06-16T01:18:48.5558844Z",
+  "Updated": "2024-06-16T01:18:48.5558844Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
